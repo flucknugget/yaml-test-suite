@@ -59,6 +59,16 @@ To get a quick overview of the tests you can have a look at the L<YAML Test
 Matrix|http://matrix.yaml.io/> -
 L<https://github.com/perlpunk/yaml-test-matrix>.
 
+=head2 Downloading Tests
+
+* L<TestML format|https://github.com/yaml/yaml-test-suite/tree/master/test>
+
+* L<TestML format split into separate files|https://github.com/yaml/yaml-test-suite/tree/data/229Q>
+
+* L<Two JavaScript files, valid and invalid tests (with tags, without names)|https://github.com/yaml/yaml-test-suite/tree/gh-pages/js>
+
+* L<One JSON file, named tests only|https://gist.github.com/flucknugget/f59dcab58552b65cb8d31266735d0f90>
+
 =head2 Updating Things
 
 When test files change you need to update various artifacts. To do this, run
